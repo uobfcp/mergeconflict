@@ -1,5 +1,5 @@
 This is a project
 
-I'm woprking with Dave
+I'm working with Dave
 
-We#'re going to do some stuff
+We're going to do some stuff
