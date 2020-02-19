@@ -1,5 +1,5 @@
 This is a project
 
-I'm woprking with Dave
+This is by Dave and Sally
 
 We#'re going to do some stuff
